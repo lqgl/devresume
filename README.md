@@ -12,7 +12,7 @@
   
 <br />
 
-Website: https://devresume-zeta.vercel.app/
+Website: https://devresume-kami.vercel.app/
 
 **Completely free** • **No sign-up** • **Live preview** • **Works offline** • **Unlimited exports**
 
